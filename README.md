@@ -1,7 +1,7 @@
 # Windows
 Demo App in Windows
 
-#Thinks that we will be using in the development
+#Development Startup - 
 
 1. Visual Studio, C#, .NET4.5(**WinRT - Windows Runtime**)
 2. Full Explanation [WinRT](http://csharpindepth.com/Articles/Chapter1/Versions.aspx)
