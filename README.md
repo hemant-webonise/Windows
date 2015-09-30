@@ -1,11 +1,12 @@
 # Windows
 Demo App in Windows For Hello-World
 
-> Simple Hello-world Example with little implementation of XMAL inside it.
+# Simple Hello-world Example
+
 > Used RelativePanel, Grid with StackPanel inside it.
 
 ```sh
-StackPanel is like LinearLayout and using Grid is like aplying Weight in Android
+StackPanel is like LinearLayout and using Grid is like applying Weight in Android
 RelativePanel is like RelativeLayout in Android
 ```
 > XML observations-
