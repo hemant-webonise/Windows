@@ -3,7 +3,7 @@ Demo App in Windows Phone Platform 10
 
 > UWP stands for Universal Windows Platform app, And in Layout Demo we have created UWP App which implements AppBar, SplitView, Buttons and Click on them
 
-# AppBar,CommandBar,SplitView  is implemented in XAML part
+# XAML 
 
 ```sh
 The Layout app implements <AppBar>, on top and <CommandBar> on the bottom.
@@ -12,7 +12,7 @@ lower deck.
 <SplitView> containing <SplitView.Pane> and <SplitView.Content> with a handburger button is
 also implemented.
 ```
-# Toasts, Dialog and Navigation is implemented in C# part 
+#  C# 
 
 ```sh
  private async void AppBarButton_Click(object sender, RoutedEventArgs e)
